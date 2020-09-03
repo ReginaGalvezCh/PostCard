@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ![4Geeks Logo](http://assets.breatheco.de/apis/img/images.php?blob&random&cat=icon&tags=4geeks,16) HTML Hello
 
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io#https://github.com/4GeeksAcademy/html-hello.git)
@@ -24,3 +25,7 @@ $ pip3 install flask && python3 server.py
   ...
 </head>
 ```
+=======
+# PostCard
+exercise 4geeksAcademy
+>>>>>>> 9881adf45ca76dadfaf0060618eb80373b1b90d5
